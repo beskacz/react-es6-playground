@@ -11,7 +11,7 @@ It provides backend written in NodeJS and build system using gulp, webpack and b
 > This is only a playground, **not for a production use!**
 >
 > - JS output file is **not minified**
-> - backend only provides api for tutorial and simplicity
+> - backend provides only small api for simplicity
 > - database is mocked with simple JSON file
 
 Installation
